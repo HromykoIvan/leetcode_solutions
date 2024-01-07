@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateZeros", "Duplicate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{7BD67C02-5E1F-43E2-A87F-643193C72CC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{DE590C57-F3E0-4FFF-A085-9D6AF099255D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{7BD67C02-5E1F-43E2-A87F-643193C72CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BD67C02-5E1F-43E2-A87F-643193C72CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BD67C02-5E1F-43E2-A87F-643193C72CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE590C57-F3E0-4FFF-A085-9D6AF099255D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE590C57-F3E0-4FFF-A085-9D6AF099255D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE590C57-F3E0-4FFF-A085-9D6AF099255D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE590C57-F3E0-4FFF-A085-9D6AF099255D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
