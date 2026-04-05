@@ -1,4 +1,4 @@
-var email = "ivan.gromyko@idt.net";
+var email = "support@reload.services";
 Console.Write(ValidateEmails(email));
 
 static bool ValidateEmails(string emailAddress)
